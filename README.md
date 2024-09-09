@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ramswaroop03
 - 👀 I’m interested in python,web development,Iot
-- 🌱 I’m currently learning ...java,python
+- 🌱 I’m currently learning ...java ,App dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...instagram/pychunk
+pychunk.in@gmail.com
 
 <!---
 ramswaroop03/ramswaroop03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
